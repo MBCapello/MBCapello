@@ -1,5 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBCapello&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBCapello&langs_count=5&theme=dark)
+ <a href="https://github.com/MBCapello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MBCapello&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBCapello&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ![Snake animation](https://github.com/MBCapello/MBCapello/blob/output/github-contribution-grid-snake.svg)
 
 
