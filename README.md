@@ -15,28 +15,14 @@
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MBCapello&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![Snake animation](https://github.com/MBCapello/MBCapello/blob/output/github-contribution-grid-snake.svg) |
 
 
+| **"A melhor maneira de prever o futuro é programá-lo."** – *Alan Kay*  |  <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="250" />
+|:--------------------------------------------------------------:|:-----------------------------------------------------------:|
 
-<div style="display: flex; gap: 20px; padding: 20px; justify-content: center; background-color: #f4f4f4; border-radius: 10px;">
-  <!-- Card para a frase -->
-  <div style="flex: 1; background-color: #1e1e1e; color: white; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; font-size: 1.5rem;">"A melhor maneira de prever o futuro é programá-lo."</h3>
-    <p style="margin: 0; text-align: right; font-style: italic;">- Alan Kay</p>
-  </div>
-
-  <!-- Card para o GIF -->
-  <div style="flex-shrink: 0; background-color: #fff; border-radius: 10px; padding: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" alt="Cat Laptop GIF" width="150" style="border-radius: 10px;">
-  </div>
+## 🎵 Ouvindo Agora
+<div align="center">
+  <a href="https://open.spotify.com/user/31goiw2bfrohqqss6xornwogm4wu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31goiw2bfrohqqss6xornwogm4wu&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
-
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MBCapello&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MBCapello&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
